@@ -144,6 +144,7 @@ Marathon is managing applications on more than 100,000 nodes at these companies,
 * [Human API](https://humanapi.co/)
 * [ING](http://www.ing.com/)
 * [iQIYI](http://www.iqiyi.com/)
+* [Mapillary](http://www.mapillary.com/)
 * [Measurence](http://www.measurence.com/)
 * [Motus](http://www.motus.com/)
 * [OpenTable](http://www.opentable.com/)
